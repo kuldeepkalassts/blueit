@@ -8,6 +8,7 @@ public class BlueitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BlueitApplication.class, args);
+		System.out.println("Welcome to application");
 	}
 
 }
